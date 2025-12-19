@@ -129,15 +129,8 @@ to do so. Here the packages lists:
 Online
 ''''''
 
-- .. image:: https://mybinder.org/badge_logo.svg
-      :target: https://mybinder.org/v2/gh/emsig/houston23-mc3/main
-      :alt: MyBinder
-
-  MyBinder: I tested the repo on MyBinder, and it should work; however, be
-  aware that it can take some time to start-up a virtual machine.
-
 - .. image:: https://colab.research.google.com/assets/colab-badge.svg
-     :target: https://colab.research.google.com/github/emsig/houston23-mc3
+     :target: https://colab.research.google.com/github/emgeopaula/JMAG100-empymod
      :alt: Colab
 
   Google Colab: If you have a Google account you can also run it on Colab. You
