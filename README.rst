@@ -81,7 +81,7 @@ Local Installation
    conda-forge, the community maintained package repository, as default
    source.)
 
-2. Download or clone the repo at https://github.com/emsig/easygo-training-em, and
+2. Download or clone the repo at https://github.com/emgeopaula/JMAG100-empymod, and
    ``cd`` to the directory.
 
 3. Install the environment with
@@ -90,20 +90,20 @@ Local Installation
 
        mamba env create -f environment.yml
 
-   This will install an environment called ``easygo-training-em``.
+   This will install an environment called ``JMAG100-empymod``.
 
 4. Activate the environment with
 
    .. code-block:: python
 
-       mamba activate easygo-training-em
+       mamba activate JMAG100-empymod
 
 5. Add this kernel to the recognized Jupyter kernels (optional, to have access
    from other envs as well) with
 
    .. code-block:: python
 
-       python -m ipykernel install --user --name easygo-training-em
+       python -m ipykernel install --user --name JMAG100-empymod
 
 6. Start Jupyter Lab
 
