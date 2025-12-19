@@ -3,19 +3,13 @@ JMAG100 session: CSEM Modelling
 Interactive session on CSEM modelling with empymod in JMAG100 course. Joint Master of Applied Geophysics, TU Delft
 Topic: Controlled-source electromagnetic (CSEM) survey design for geothermal applications
 
-
-.. image:: figures/easygo-on-logo.png
-   :width: 150px
-   :target: https://easygo-itn.eu/
-   :alt: EasyGO logo
-
 .. image:: figures/idealeague-logo_small.png
    :width: 170px
    :target: https://idealeague.org/about/
    :alt: IdeaLeague logo
 
 
-**2025 EasyGO Training, ETH Zürich**
+**5 January 2026 JMAG100**
 
 
 .. image:: https://mybinder.org/badge_logo.svg
@@ -30,24 +24,22 @@ Topic: Controlled-source electromagnetic (CSEM) survey design for geothermal app
 
 |
 
-In the following three hours, we are going to design a controlled-source electromagnetic 
+In the following two hours, we are going to design a controlled-source electromagnetic 
 survey to monitor a near-surface geothermal project.
 
-We will use ``empymod`` and ``emg3d`` to model
+We will use ``empymod`` to model
 electromagnetic data in the diffusive regime.
 
-``CSEM_survey_design_EasygoON.pdf`` is a presentation with supporting information for this training.
+``JMAG100_empymod.pdf`` is a presentation with supporting information for this session.
 
 
 Structure of this Class
 -----------------------------
 
-9:00 - 10:00
+13:45 - 14:35
 
-- Introduction ('20)
+- Introduction ('10)
 
-   - Electromagnetic (EM) Geophysics
-   - Material property: resistivity
    - Controlled-source electromagnetics
    - EM modelling
 
@@ -55,7 +47,7 @@ Structure of this Class
 
 - Layered-Earth modelling with ``empymod`` using ``empymod.ipynb`` ('30)
 
-10:00 - 11:00
+14:45 - 15:45
 
 - CSEM monitoring of an Aqufer Thermal Energy Storage (ATES) system ('20)
 
@@ -63,15 +55,9 @@ Structure of this Class
    - Resistivity-temperature relationship
    - Survey configurations and EM field components
 
-- Design a CSEM survey for monitoring the ATES site using ``empymod_ATES.ipynb`` ('30)
+- Design a CSEM survey for monitoring the ATES site using ``empymod_ATES.ipynb`` ('20)
 - Discussion on suitable survey design ('10)
-
-11:15 - 12:15
-
-- 3D modelling with ``emg3d`` using ``emg3d.ipynb`` ('20) 
-- Improve you CSEM survey design for monitoring the ATES site using ``emg3d_ATES.ipynb`` ('20) 
 - Complexities of infrastructure for geothermal monitoring with EM ('10)
-- Q&A and `Further links <#further-links>`_ ('10')
 
 
 
