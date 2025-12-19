@@ -1,6 +1,7 @@
-EasyGO Training: CSEM Modelling
+JMAG100 session: CSEM Modelling
 =============================
-Controlled-source electromagnetic (CSEM) survey design for geothermal applications
+Interactive session on CSEM modelling with empymod in JMAG100 course. Joint Master of Applied Geophysics, TU Delft
+Topic: Controlled-source electromagnetic (CSEM) survey design for geothermal applications
 
 
 .. image:: figures/easygo-on-logo.png
