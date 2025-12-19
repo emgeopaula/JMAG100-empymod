@@ -69,17 +69,16 @@ Pre-requisites to run the examples
 
 - For scientific computations I always advice **against** using your PC's Python installation; you should use **dedicated Python installations** for your coding.
 
-- For various reasons I also advice to use **Mambaforge**, or alternatively the regular *conda*.
+- For various reasons I also advice to use **Condaforge**, or alternatively the regular *conda*.
 
 Local Installation
 ''''''''''''''''''
 
-1. Download and install the corresponding Mambaforge for your OS:  
+1. Download and install the corresponding Condaforge for your OS:  
    https://www.github.com/conda-forge/miniforge#miniforge
 
-   (Mambaforge uses mamba, the faster conda implementation, and sets
-   conda-forge, the community maintained package repository, as default
-   source.)
+   (Condaforge sets conda-forge, the community maintained package repository, 
+   as default source.)
 
 2. Download or clone the repo at https://github.com/emgeopaula/JMAG100-empymod, and
    ``cd`` to the directory.
@@ -88,7 +87,7 @@ Local Installation
 
    .. code-block:: python
 
-       mamba env create -f environment.yml
+       conda env create -f environment.yml
 
    This will install an environment called ``JMAG100-empymod``.
 
@@ -96,7 +95,7 @@ Local Installation
 
    .. code-block:: python
 
-       mamba activate JMAG100-empymod
+       conda activate JMAG100-empymod
 
 5. Add this kernel to the recognized Jupyter kernels (optional, to have access
    from other envs as well) with
