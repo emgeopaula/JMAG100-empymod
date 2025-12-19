@@ -14,10 +14,10 @@ Topic: Controlled-source electromagnetic (CSEM) survey design for geothermal app
 
 
 .. image:: https://mybinder.org/badge_logo.svg
-   :target: https://mybinder.org/v2/gh/emsig/easygo-training-em/main
+   :target: https://mybinder.org/v2/gh/emgeopaula/JMAG100-empymod
    :alt: MyBinder
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
-   :target: https://colab.research.google.com/github/emsig/easygo-training-em
+   :target: https://colab.research.google.com/github/emgeopaula/JMAG100-empymod
    :alt: Colab
 .. image:: https://img.shields.io/github/license/emsig/easygo-training-em.svg
    :target: https://github.com/emsig/easygo-training-em/blob/main/LICENSE
