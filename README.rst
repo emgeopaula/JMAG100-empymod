@@ -1,6 +1,7 @@
 JMAG100 session: CSEM Modelling
 =============================
 Interactive session on CSEM modelling with empymod in JMAG100 course. Joint Master of Applied Geophysics, TU Delft
+
 Topic: Controlled-source electromagnetic (CSEM) survey design for geothermal applications
 
 .. image:: figures/idealeague-logo_small.png
