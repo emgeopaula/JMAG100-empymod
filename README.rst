@@ -13,14 +13,15 @@ Topic: Controlled-source electromagnetic (CSEM) survey design for geothermal app
 **5 January 2026 JMAG100**
 
 
-.. image:: https://mybinder.org/badge_logo.svg
-   :target: https://mybinder.org/v2/gh/emgeopaula/JMAG100-empymod
-   :alt: MyBinder
+
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
    :target: https://colab.research.google.com/github/emgeopaula/JMAG100-empymod
    :alt: Colab
+.. image:: https://mybinder.org/badge_logo.svg
+   :target: https://mybinder.org/v2/gh/emgeopaula/JMAG100-empymod
+   :alt: MyBinder
 .. image:: https://img.shields.io/github/license/emsig/easygo-training-em.svg
-   :target: https://github.com/emsig/easygo-training-em/blob/main/LICENSE
+   :target: https://github.com/emgeopaula/JMAG100-empymod/blob/main/LICENSE
    :alt: License
 
 |
