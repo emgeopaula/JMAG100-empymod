@@ -1,4 +1,4 @@
-name: easygo-training-em
+name: JMAG100-empymod
 
 channels:
     - conda-forge
